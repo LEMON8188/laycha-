@@ -1,0 +1,13 @@
+a{
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+    border: 1px solid;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+a.active{
+    color: red;
+}
