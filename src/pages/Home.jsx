@@ -6,7 +6,7 @@ function Home() {
         <h1>Home</h1>
 
 
-        <h4>Update home page</h4>
+        <h4>Update homee page</h4>
     </div>
   )
 }
