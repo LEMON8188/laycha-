@@ -4,6 +4,9 @@ function Home() {
   return (
     <div>
         <h1>Home</h1>
+
+
+        <h4>Update home page</h4>
     </div>
   )
 }
